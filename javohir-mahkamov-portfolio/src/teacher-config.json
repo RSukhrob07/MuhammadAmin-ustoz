@@ -1,0 +1,50 @@
+{
+  "name": "Muhammad Amin",
+  "role": "IELTS Instructor",
+  "branchName": "Farg'ona Markaz",
+  "teacherImg": "", 
+  "philosophy": "O'quvchilar qila oladigan, lekin o'zlari hali bunga ishonmaydigan yutuqlarga va bilimlarga erishishda ularga ishonch berish va yordam ko'rsatish.",
+  "experienceYears": "3+",
+  "studentsTaught": "200+",
+  "portfolioCards": [
+    {
+      "title": "Dars berish uslubi",
+      "bullet": "Xotirjam va vazmin muhit. O’quvchilar bilan qizishmasdan, har bir mavzuni mukammal o'zlashtirguncha sabr bilan ishlash."
+    },
+    {
+      "title": "Xarakter va Muhit",
+      "bullet": "Dars davomida zerikish va stressni oldini olish uchun kerakli vaqtda hazilkashlik va pozitiv energiya."
+    },
+    {
+      "title": "Xalqaro tajriba",
+      "bullet": "Xorijda Turizm sohasida faoliyat yuritib, real ingliz tili muhitida katta amaliy va muloqot tajribasini orttirgan."
+    },
+    {
+      "title": "Qiziqishlar va Hobbilar",
+      "bullet": "Sportning barcha turlariga faol qiziqish hamda bo'sh vaqtlarda jahon kinosi durdonalarini kuzatish."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "vid-1",
+      "title": "IELTS Speaking: Band 8.0 Fluency Secrets",
+      "duration": "1:45",
+      "topic": "Speaking Strategy",
+      "level": "IELTS 8.0",
+      "subtitles": [
+        { "time": 0, "textUz": "Xotirjamlik va ravonlik — Speakingda yuqori ball kalitidir.", "textEn": "Calmness and fluency are the keys to a high score in Speaking." }
+      ],
+      "vocab": [
+        { "word": "Fluency", "meaning": "Nutqning ravonligi" }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which idiom best describes staying calm in a difficult situation?",
+      "options": ["To burn the midnight oil", "To keep one's cool", "To break a leg", "To bite the bullet"],
+      "correct": 1
+    }
+  ],
+  "instagramPosts": []
+}
